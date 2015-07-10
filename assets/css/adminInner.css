@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#login
+{
+	background:#f8f4ec;
+	padding:10px;
+	border-radius:5px;
+	box-shadow:rgba(0,0,0,0.5) 0 0 3px;
+	margin-top:30px;
+}
+.loginLogo
+{
+	text-align:center;
+	margin-top:80px;
+}

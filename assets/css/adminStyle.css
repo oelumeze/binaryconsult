@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+#login
+{
+	background:#f8f4ec;
+	padding:10px;
+	border-radius:5px;
+	box-shadow:rgba(0,0,0,0.5) 0 0 3px;
+	margin-top:30px;
+}
+.loginLogo
+{
+	text-align:center;
+	margin-top:80px;
+}
+
+.navbar{
+	background:#1c1c1c;
+	color:#bababa;
+	border-bottom:#1c1c1c 1px solid;
+	border-top:#1c1c1c 1px solid;
+	text-shadow:none;
+}
+.nav
+{
+	text-shadow:none;
+}
+.navbar .nav > li > a
+{
+	text-shadow:none;
+}
+.adminContent
+{
+	margin-top:30px;
+}
+h2
+{
+	border-bottom:#CCC 1px  solid;
+	line-height:120px;
+font-size:80px;
+	font-family: 'Nova Square', Arial, Helvetica, sans-serif;
+	color:#980d0d;
+	letter-spacing:-5px;
+}
+thead
+{
+	background:#1c1c1c;
+	text-align:center;
+	color:#CCC;
+}
+thead tr
+{
+	border-color:#666;
+}
